@@ -30,7 +30,7 @@ Weiterhin wird das Vue CLI benötigt:
 1. In den gewünschten Ordner wechseln
 
    ```bash
-   cd Part_1/end/awesome-vue
+   cd Part_1/1_end/awesome-vue
    ```
 
 1. npm packages installieren
