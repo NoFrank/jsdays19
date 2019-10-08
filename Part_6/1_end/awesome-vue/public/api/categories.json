@@ -1,0 +1,38 @@
+[
+  {
+    "id": 10,
+    "title": "Ressources",
+    "subCategories": [
+      {
+        "id": 101,
+        "title": "Official"
+      },
+      {
+        "id": 102,
+        "title": "Podcasts"
+      },
+      {
+        "id": 103,
+        "title": "Books"
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "title": "UI Components",
+    "subCategories": [
+      {
+        "id": 201,
+        "title": "Table"
+      },
+      {
+        "id": 202,
+        "title": "Notification"
+      },
+      {
+        "id": 203,
+        "title": "Loader"
+      }
+    ]
+  }
+]
