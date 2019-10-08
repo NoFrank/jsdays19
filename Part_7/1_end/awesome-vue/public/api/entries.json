@@ -1,0 +1,43 @@
+[
+  {
+    "id": 1000,
+    "category": 10,
+    "subCategory": 101,
+    "title": "Offizieller Guide",
+    "url": "https://vuejs.org/guide/",
+    "description": "Die offizielle Dokumentation"
+  },
+  {
+    "id": 1001,
+    "category": 10,
+    "subCategory": 101,
+    "title": "API Referenz",
+    "url": "https://vuejs.org/api/",
+    "description": "API-Referenz"
+  },
+  {
+    "id": 1002,
+    "category": 10,
+    "subCategory": 101,
+    "title": "Style Guide",
+    "url": "https://vuejs.org/v2/style-guide/",
+    "description": "Der Style-Guide enthält viele Tipps für die Vue-Entwicklung"
+  },
+  {
+    "id": 1003,
+    "category": 10,
+    "subCategory": 101,
+    "title": "Vue.js News",
+    "url": "https://news.vuejs.org/",
+    "description": "Regelmäßige Updates aus der Vue-Welt"
+  },
+  {
+    "id": 1004,
+    "category": 10,
+    "subCategory": 102,
+    "title": "Views on Vue",
+    "url": "https://news.vuejs.org/",
+    "description": "Regelmäßige Updates aus der Vue-Welt"
+  }
+
+]
