@@ -1,37 +1,67 @@
 [
   {
     "id": 10,
-    "title": "Ressources",
+    "title": "Offiziell",
     "subCategories": [
       {
         "id": 101,
-        "title": "Official"
+        "title": "Doku"
       },
       {
         "id": 102,
-        "title": "Podcasts"
+        "title": "Libraries/Plugins"
       },
       {
         "id": 103,
-        "title": "Books"
+        "title": "Verschiedenes"
       }
     ]
   },
   {
     "id": 20,
-    "title": "UI Components",
+    "title": "Plugins",
     "subCategories": [
       {
         "id": 201,
-        "title": "Table"
+        "title": "Validierung"
       },
       {
         "id": 202,
-        "title": "Notification"
+        "title": "UI-Libraries"
       },
       {
         "id": 203,
-        "title": "Loader"
+        "title": "SSR / Site-Generatoren"
+      },
+      {
+        "id": 204,
+        "title": "Verschiedenes"
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "title": "Ressourcen",
+    "subCategories": [
+      {
+        "id": 301,
+        "title": "Podcasts"
+      },
+      {
+        "id": 302,
+        "title": "Blogs"
+      },
+      {
+        "id": 303,
+        "title": "Sample Apps"
+      },
+      {
+        "id": 304,
+        "title": "News"
+      },
+      {
+        "id": 305,
+        "title": "Video-Kurse"
       }
     ]
   }

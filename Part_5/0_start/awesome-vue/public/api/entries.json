@@ -21,23 +21,254 @@
     "subCategory": 101,
     "title": "Style Guide",
     "url": "https://vuejs.org/v2/style-guide/",
-    "description": "Der Style-Guide enthält viele Tipps für die Vue-Entwicklung"
+    "description": "Der Style-Guide enthält viele Tipps für die Vue-Entwicklung mit Do's and Don'ts"
   },
   {
     "id": 1003,
     "category": 10,
     "subCategory": 101,
-    "title": "Vue.js News",
-    "url": "https://news.vuejs.org/",
-    "description": "Regelmäßige Updates aus der Vue-Welt"
+    "title": "Cookbook",
+    "url": "https://vuejs.org/v2/cookbook/",
+    "description": "Konkrete Implementierungsbeispiele und Lösungsansätze"
   },
   {
     "id": 1004,
     "category": 10,
     "subCategory": 102,
+    "title": "Vue.js",
+    "url": "https://github.com/vuejs/vue",
+    "description": "Offizielles Github-Repository"
+  },
+  {
+    "id": 1005,
+    "category": 10,
+    "subCategory": 102,
+    "title": "Vue CLI",
+    "url": "https://cli.vuejs.org/",
+    "description": "Das Vue Command-Line-Interface (CLI)"
+  },
+  {
+    "id": 1006,
+    "category": 10,
+    "subCategory": 102,
+    "title": "Vue Router",
+    "url": "https://router.vuejs.org/",
+    "description": "Der offizielle Vue-Router"
+  },
+  {
+    "id": 1007,
+    "category": 10,
+    "subCategory": 102,
+    "title": "Vuex",
+    "url": "https://vuex.vuejs.org/",
+    "description": "Offizielle State-Management nach dem Flux-Pattern"
+  },
+  {
+    "id": 1008,
+    "category": 10,
+    "subCategory": 103,
+    "title": "Vuex-Router-Sync",
+    "url": "https://github.com/vuejs/vuex-router-sync",
+    "description": "Route-Informationen im Vuex-Store verwalten"
+  },
+  {
+    "id": 1009,
+    "category": 10,
+    "subCategory": 103,
+    "title": "Vue-rx",
+    "url": "https://github.com/vuejs/vue-rx",
+    "description": "RxJS-Integration für Vue.js"
+  },
+  {
+    "id": 1010,
+    "category": 10,
+    "subCategory": 103,
+    "title": "Dev-Tools",
+    "url": "https://github.com/vuejs/vue-devtools",
+    "description": "Browser-Extension für Vue-Debugging"
+  },
+  {
+    "id": 1011,
+    "category": 10,
+    "subCategory": 103,
+    "title": "Test-Utils",
+    "url": "https://vue-test-utils.vuejs.org/",
+    "description": "Unit-Test-Library für Vue.js"
+  },
+  {
+    "id": 1012,
+    "category": 20,
+    "subCategory": 201,
+    "title": "Vuelidate",
+    "url": "https://vuelidate.netlify.com/",
+    "description": "Modell-basierte Validierungslibrary"
+  },
+  {
+    "id": 1013,
+    "category": 20,
+    "subCategory": 201,
+    "title": "VeeValidate",
+    "url": "https://logaretm.github.io/vee-validate/",
+    "description": "Template-basierte Validierungslibrary"
+  },
+  {
+    "id": 1014,
+    "category": 20,
+    "subCategory": 202,
+    "title": "Bootstrap-Vue",
+    "url": "https://bootstrap-vue.js.org/",
+    "description": "Vue-Integration von Bootstrap. Sämtliche JS-Logik von Bootstrap wurde mit Vue umgesetzt"
+  },
+  {
+    "id": 1015,
+    "category": 20,
+    "subCategory": 202,
+    "title": "Quasar",
+    "url": "https://quasar.dev/",
+    "description": "Mächtiges UI-Framework nach den Material Design Richtlinien"
+  },
+  {
+    "id": 1016,
+    "category": 20,
+    "subCategory": 202,
+    "title": "Vuetify",
+    "url": "https://vuetifyjs.com/en/",
+    "description": "Umfangreiche UI-Library nach den Material Design Richtlinien"
+  },
+  {
+    "id": 1017,
+    "category": 20,
+    "subCategory": 203,
+    "title": "Nuxt",
+    "url": "https://nuxtjs.org/",
+    "description": "Auf Vue.js basierendes Application Framework mit zahlreichen vorkonfigurierten Features"
+  },
+  {
+    "id": 1018,
+    "category": 20,
+    "subCategory": 203,
+    "title": "Gridsome",
+    "url": "https://gridsome.org/",
+    "description": "Static Site Generator mit GraphQL-API für den JAM-Stack"
+  },
+  {
+    "id": 1019,
+    "category": 20,
+    "subCategory": 203,
+    "title": "VuePress",
+    "url": "https://vuepress.vuejs.org/",
+    "description": "Static Site Generator"
+  },
+  {
+    "id": 1020,
+    "category": 20,
+    "subCategory": 204,
+    "title": "Axios",
+    "url": "https://github.com/axios/axios",
+    "description": "Verbreiteter HTTP-Client (nicht speziell für Vue.js)"
+  },
+  {
+    "id": 1021,
+    "category": 20,
+    "subCategory": 204,
+    "title": "PortalVue",
+    "url": "https://portal-vue.linusb.org/",
+    "description": "Erlaubt es, Inhalte überall im DOM zu rendern"
+  },
+  {
+    "id": 1022,
+    "category": 30,
+    "subCategory": 301,
     "title": "Views on Vue",
+    "url": "https://devchat.tv/views-on-vue/",
+    "description": "Regelmäßiger Podcast zu Vue.js"
+  },
+  {
+    "id": 1023,
+    "category": 30,
+    "subCategory": 301,
+    "title": "News Podcat",
     "url": "https://news.vuejs.org/",
-    "description": "Regelmäßige Updates aus der Vue-Welt"
+    "description": "News aus der Vue-Welt als Podcast"
+  },
+  {
+    "id": 1024,
+    "category": 30,
+    "subCategory": 302,
+    "title": "Markus Oberlehner",
+    "url": "https://markus.oberlehner.net/tags/vue/",
+    "description": "Blog mit vielen interessanten Beiträgen zu Vue.js"
+  },
+  {
+    "id": 1025,
+    "category": 30,
+    "subCategory": 302,
+    "title": "Alligator.io",
+    "url": "https://alligator.io/vuejs/",
+    "description": "Viele Artikel rund um Vue und andere Frontend-Themen"
+  },
+  {
+    "id": 1026,
+    "category": 30,
+    "subCategory": 303,
+    "title": "Vue Enterprise Boilerplate",
+    "url": "https://github.com/chrisvfritz/vue-enterprise-boilerplate",
+    "description": "Mächtige Demo-App für komplexe Anforderungen"
+  },
+  {
+    "id": 1027,
+    "category": 30,
+    "subCategory": 303,
+    "title": "Vue-Life-Planner",
+    "url": "https://github.com/NoFrank/vue-life-planner",
+    "description": "Sample-App mit diversen Aspekten exemplarisch umgesetzt"
+  },
+  {
+    "id": 1028,
+    "category": 30,
+    "subCategory": 303,
+    "title": "Complex Forms",
+    "url": "https://github.com/NoFrank/vue-complex-forms",
+    "description": "Talk von der c't webdev 2019 inkl. Demo-Implementierung"
+  },
+  {
+    "id": 1029,
+    "category": 30,
+    "subCategory": 304,
+    "title": "Weekly News",
+    "url": "https://news.vuejs.org/",
+    "description": "Wöchentliche Updates aus der Vue-Welt"
+  },
+  {
+    "id": 1030,
+    "category": 30,
+    "subCategory": 304,
+    "title": "Twitter",
+    "url": "https://twitter.com/vuejs",
+    "description": "Offizieller Twitter-Kanal"
+  },
+  {
+    "id": 1031,
+    "category": 30,
+    "subCategory": 305,
+    "title": "Vue JS 2 - The Complete Guide (incl. Vue Router & Vuex)",
+    "url": "https://www.udemy.com/course/vuejs-2-the-complete-guide/",
+    "description": "Umfangreicher Video-Kurs zu Vue.js"
+  },
+  {
+    "id": 1032,
+    "category": 30,
+    "subCategory": 305,
+    "title": "VueSchool",
+    "url": "https://vueschool.io/",
+    "description": "Auf Vue spezialisierte Kursplattform"
+  },
+  {
+    "id": 1033,
+    "category": 30,
+    "subCategory": 305,
+    "title": "Vue Mastery",
+    "url": "https://www.vuemastery.com/",
+    "description": "Freie und kostenpflichige Videos und Konferenzaufzeichnungen"
   }
-
 ]
