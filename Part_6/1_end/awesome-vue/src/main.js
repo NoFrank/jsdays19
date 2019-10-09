@@ -15,8 +15,6 @@ Vue.component("AvInput", Input);
 Vue.component("AvSelect", Select);
 Vue.component("AvModal", Modal);
 
-export const EventBus = new Vue();
-
 new Vue({
   router,
   render: h => h(App)
