@@ -12,7 +12,6 @@
         <AvInput class="flex-1" v-model="filterText" label="Filter"></AvInput>
       </div>
       <AvButton @click="editItem()">Neuer Eintrag</AvButton>
-      {{ subCategory }}
     </section>
     <main class="m-4">
       <h2 class="text-vue text-2xl font-bold">Einträge</h2>
