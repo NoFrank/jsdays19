@@ -34,6 +34,13 @@ export default new Router({
         next();
       },
       props: true
+    },
+    {
+      path: "/entry/:id",
+      name: "entry",
+      component: () =>
+        import(/* webpackChunkName: "edit" */ "./views/Entry.vue"),
+      props: true
     }
   ]
 });

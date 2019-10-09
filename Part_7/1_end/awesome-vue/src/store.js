@@ -12,6 +12,11 @@ export default new Vuex.Store({
     editEntry: {},
     editIndex: null
   },
+  getters: {
+    entryById: state => id => {
+      return state.entries.find(entry => entry.id == id);
+    }
+  },
   mutations: {
     updateCategories(state, categories) {
       state.categories = categories;
