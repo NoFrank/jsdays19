@@ -18,11 +18,11 @@
 export default {
   props: {
     id: {
-      type: Number,
-    },
+      type: Number
+    }
   },
   computed: {
-    entry() {;
+    entry() {
       return this.$store.getters.entryById(this.id);
     }
   },
